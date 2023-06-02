@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GShpsRaFZavZkc+LocGYKkgUYmXeRFUvg0R4l7Jatig4OMOBoIWyWzviSOxCRyTccnZMQR18S5RFr/MHSVpzMg==",
+  "dgSpecHash": "8haAPCl0wE+Z/I2Dg9eiITIMAB7B/1vpKloGo8b7f/CFk80mzzdPwZx0tHSAMo7Mi1jPw6lFsxDf3ZPZiNqNuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\.NETWebApp\\React_Portfolio\\webapi\\webapi.csproj",
+  "projectFilePath": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\.NETWebApp\\React_Portfolio\\ReactPortfolio\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Walter Garciaguirre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\Walter Garciaguirre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -2,3 +2,5 @@ C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Budget_App\reac
 C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Budget_App\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
 C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Portfolio\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
 C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Portfolio\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Portfolio\ReactPortfolio\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Walter Garciaguirre\Documents\Projects\.NETWebApp\React_Portfolio\ReactPortfolio\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
